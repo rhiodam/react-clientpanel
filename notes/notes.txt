@@ -53,3 +53,27 @@ nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
 added 109 packages from 56 contributors and audited 36445 packages in 1635.693s
 found 63 low severity vulnerabilities
   run `npm audit fix` to fix them, or `npm audit` for details
+
+
+
+D:\Users\rhiodam\fullstack\firebase react\react-clientpanel> npm i react-router-dom
+npm WARN deprecated core-js@1.2.7: core-js@<2.6.5 is no longer maintained. Please, upgrad
+e to core-js@3 or at least to actual version of core-js@2.
+npm WARN ts-pnp@1.0.1 requires a peer of typescript@* but none is installed. You must ins
+tall peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\chokidar\nod
+e_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ react-router-dom@5.0.0
+added 15 packages from 85 contributors, removed 6 packages and audited 36510 packages in
+469.131s
+found 63 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+
+
