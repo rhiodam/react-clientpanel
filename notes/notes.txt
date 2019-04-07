@@ -1,0 +1,55 @@
+
+2
+npm i react-router-dom
+
+5
+npm i redux react-redux react-redux-firebase react-redux-firestore
+D:\Users\rhiodam\fullstack\firebase react\react-clientpanel>npm i redux react-redux react
+-redux-firebase react-redux-firestore
+npm WARN ts-pnp@1.0.1 requires a peer of typescript@* but none is installed. You must ins
+tall peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\chokidar\nod
+e_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ react-redux-firestore@0.0.1
++ redux@4.0.1
++ react-redux@6.0.1
++ react-redux-firebase@2.2.6
+added 7 packages from 5 contributors and audited 36275 packages in 607.444s
+found 63 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+
+
+npm i firebase
+
+
+:\Users\rhiodam\fullstack\firebase react\react-clientpanel>npm i firebase
+
+> grpc@1.19.0 install D:\Users\rhiodam\fullstack\firebase react\react-clientpanel\node_mo
+dules\grpc
+> node-pre-gyp install --fallback-to-build --library=static_library
+
+node-pre-gyp WARN Using request for node-pre-gyp https download
+[grpc] Success: "D:\Users\rhiodam\fullstack\firebase react\react-clientpanel\node_modules
+\grpc\src\node\extension_binary\node-v64-win32-x64-unknown\grpc_node.node" is installed v
+ia remote
+npm WARN ts-pnp@1.0.1 requires a peer of typescript@* but none is installed. You must ins
+tall peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\chokidar\nod
+e_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wa
+nted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ firebase@5.9.3
+added 109 packages from 56 contributors and audited 36445 packages in 1635.693s
+found 63 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
