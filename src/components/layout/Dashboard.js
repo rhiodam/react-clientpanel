@@ -5,9 +5,19 @@ import Sidebar from "../layout/Sidebar";
 
 export default () => {
     return (
-        <div>
-            <h1>Dashboard</h1>
-            <Clients/>
+        <div className="row">
+            {/*<div className="col-md-10">*/}
+                {/*<h1>Dashboard</h1>*/}
+            {/*</div>*/}
+
+            <div className="col-md-10">
+                <Clients/>
+            </div>
+            <div className="col-md-2">
+                <Sidebar/>
+            </div>
+
+
         </div>
     )
 }
